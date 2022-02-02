@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="index.css">
+    <title>Nice Kingdom of Magic</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    </head>
+    <body>
+		<header>
+			<div class="bob">
+				<h1>
+				Nice Kingdom of Magic
+				</h1>
+			</div>
+			
+				<div class="topnav">
+				<p class="marsh">Marshland</p>
+				</div>
+			
+		</header>
+		 <p class="regions">
+  <a href="../index.html" class="Marshland">Hub</a>
+     
+  <a href="Foggylands/Foggyland.html" class="Foggyland">Foggyland</a>
+  </p>
+		<div class="arts">
+			<img src="Mushroom.png" alt="<Mushroom" />
+			<img class="frog" src="Frog.png" alt="Frog" />
+		</div>
+	<script src="index.js"></script>
+    </body>
+</html>  

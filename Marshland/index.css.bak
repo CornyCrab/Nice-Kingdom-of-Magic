@@ -1,0 +1,80 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+}	
+a {
+	text-decoration:none;
+	color:#ced81a;
+}
+li{
+	text-decoration: none;
+	list-style: none;
+}
+body{
+	width: 99.5%;
+	height: 100%;
+	font-family: 'Press Start 2P';
+	color: #ced81a;
+	background: #283001 url(Marshland.gif) no-repeat;
+}
+background{
+	width: 100%;
+}
+.bob{
+	background: #617903;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	color: #ced81a;
+	padding: 5px;
+}
+.graficbob{
+	
+	max-width: 100%;
+	box-sizing: border-box;
+}
+}
+.topnav{
+	background:#;
+	display: flex;
+	font-size: 14px;
+	margin-top: 40px;
+	width:100%;
+	justify-content: center;
+
+}
+.marsh{
+	
+	padding: 14px 16px;
+	font-size:2em;
+	width:100%;
+	text-align: center;
+}
+.regions{
+	text-align:center;
+	font-size:20px;
+	z-index:1;
+}
+.marsh:hover{
+
+	 animation-name: blink;
+  animation-timing-function: linear;
+  animation-duration: 0.3s;
+  animation-iteration-count: infinite;
+}
+.arts{
+	
+	margin: 50px;
+	margin-top:160px;
+}
+.frog{
+	float: right;
+}
+.Mushrom{
+	float: left;
+}
+@keyframes blink {
+  50% {
+    opacity: 0.4;
+	}
+	}
