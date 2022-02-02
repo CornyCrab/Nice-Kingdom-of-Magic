@@ -42,16 +42,5 @@ a {
 .Foggyland:hover{
 	border-bottom: 2px solid #ffffff;
 }
-a:hover{
 
-	 animation-name: blink;
-  animation-timing-function: linear;
-  animation-duration: 0.3s;
-  animation-iteration-count: infinite;
-}
-@keyframes blink {
-  50% {
-    opacity: 0.4;
-	}
-	}
 	
