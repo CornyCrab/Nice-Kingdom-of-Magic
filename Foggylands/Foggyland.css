@@ -47,7 +47,7 @@ a/*:hover*/{
   animation-iteration-count: infinite;
 }
 @keyframes blink {
-  100% {
+  40% {
     opacity: 0.5;
 	}
 	}
